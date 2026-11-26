@@ -1,6 +1,5 @@
 <?php
 
-//panggil file propertyconstant
 require('./PropertyConstant.php');
 
 use Pbo\Marketplace\Produk;
